@@ -33,7 +33,7 @@ The following section details the installation and verification of the essential
     ```
 * **Verification Snapshot:**
     `yosys --version`
-    [INSERT YOSYS VERIFICATION SCREENSHOT HERE]
+    
 
 #### 2. Icarus Verilog - RTL Simulator
 
@@ -44,7 +44,7 @@ The following section details the installation and verification of the essential
     ```
 * **Verification Snapshot:**
     `iverilog -V`
-    [INSERT IVERILOG VERIFICATION SCREENSHOT HERE]
+   
 
 #### 3. GTKWave - Waveform Analyzer
 
@@ -55,7 +55,7 @@ The following section details the installation and verification of the essential
     ```
 * **Verification Snapshot:**
     `gtkwave --version`
-    [INSERT GTKWAVE VERIFICATION SCREENSHOT HERE]
+   
 
 ---
 
