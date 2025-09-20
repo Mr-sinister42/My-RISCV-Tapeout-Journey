@@ -1,26 +1,24 @@
-# RISC-V SoC Tapeout Program Journey
+# My Digital Logbook: RISC-V SoC Design Tapeout
 
-Welcome! This repository documents my progress and learnings through the comprehensive RISC-V Reference SoC Tapeout Program, organized by VLSI System Design (VSD).
+Welcome to my project repository for the VLSI System Design (VSD) RISC-V SoC Tapeout Program. This space serves as my personal logbook, chronicling the entire journey from foundational concepts to the final tapeout of a System-on-Chip.
 
-This program offers a complete hands-on experience in designing a System-on-Chip (SoC), from writing RTL in Verilog to generating the final GDSII layout file using open-source EDA tools. It is a cornerstone of India's mission to build a robust semiconductor ecosystem, enabling thousands of engineers to gain practical, silicon-level design skills.
+The core mission of this program is to bridge the gap between theory and practice by building a complete SoC using open-source EDA tools. This repository will track my progress, challenges, and key takeaways on a weekly basis.
 
-### Weekly Progress Log
+### Project Milestone Tracker
 
-| Week | Task Description | Status |
+| Week | Focus Area | Status & Link |
 | :--- | :--- | :--- |
-| *Week 0* | 🛠 *Environment and EDA Tool Setup* — Installed and verified Yosys, Iverilog, GTKWave, Magic, and Ngspice. | ✅ Complete |
-| *Week 1* | Upcoming... | ⏳ Pending |
+| **0** | **The Digital Workbench:** Environment and EDA Toolchain Setup. | ✅ **Complete** - [View Details](./Week0/Task0/README.md) |
+| **1** | *Awaiting Assignment...* | ⏳ **Pending** |
 
 ---
 
-### 🌟 Key Learnings from Week 0
+### Foundational Skills Acquired (Week 0)
 
-* Successfully configured a virtual environment on Ubuntu for VLSI design work.
-* Installed a full suite of open-source EDA tools required for the RTL-to-GDSII flow.
-* Gained foundational knowledge of the commands and workflows for synthesis, simulation, and layout tools.
+* Mastered the setup of a virtualized Linux environment (Ubuntu) tailored for VLSI development.
+* Successfully installed and validated a suite of critical open-source EDA tools, establishing a complete RTL-to-GDSII workflow.
+* Gained practical experience with the command-line operations essential for simulation, synthesis, and physical design.
 
-### 🙏 Acknowledgments
+### Acknowledgment & Gratitude
 
-I extend my sincere gratitude to *Kunal Ghosh* and the entire *VLSI System Design (VSD)* team for this incredible learning opportunity.
-
-This initiative would not be possible without the foundational support of *RISC-V International, the **India Semiconductor Mission (ISM), the **VLSI Society of India (VSI), and **Efabless*.
+I am profoundly grateful to **Kunal Ghosh** and the **VLSI System Design (VSD)** organization for spearheading this transformative educational initiative. My participation is also made possible by the vital contributions of **RISC-V International**, the **India Semiconductor Mission (ISM)**, the **VLSI Society of India (VSI)**, and **Efabless**.
